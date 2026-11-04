@@ -16,6 +16,14 @@ Regression Tests    |regtests|
 
 .. |regtests| image:: https://github.com/erf-model/ERF/actions/workflows/ci.yml/badge.svg?branch=development
 
+LSFIRE documentation
+~~~~~~~~~~~~~~~~~~~~
+
+For the current ERF–LSFIRE integration, build instructions, coupled examples,
+and model paper, see `the LSFIRE documentation <docs/LSFIRE.md>`_.
+These instructions describe `erf-model/LSFIRE <https://github.com/erf-model/LSFIRE>`_;
+this personal repository retains the earlier ERF-based source layout.
+
 Getting Started
 ~~~~~~~~~~~~~~~
 
